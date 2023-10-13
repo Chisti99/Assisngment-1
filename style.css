@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Gabarito&display=swap");
+
+body {
+  font-family: "Gabarito", sans-serif;
+}
+.part-1 {
+  display: flex;
+}
+.part-1 h1 {
+  font-size: 50px;
+  color: red;
+}
+.part-1 p {
+  font-weight: bolder;
+  font-size: 25px;
+}
+.ironman-img img {
+  margin-left: 80px;
+}

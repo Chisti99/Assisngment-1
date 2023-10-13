@@ -5,6 +5,8 @@ body {
 }
 .part-1 {
   display: flex;
+  margin-bottom: 100px;
+  margin-left: 50px;
 }
 .part-1 h1 {
   font-size: 50px;
@@ -16,4 +18,15 @@ body {
 }
 .ironman-img img {
   margin-left: 80px;
+}
+/* section 2 */
+.part-2 {
+  display: flex;
+  justify-content: center;
+  margin-left: 60px;
+  align-items: center;
+}
+.details {
+  margin-left: 120px;
+  margin-right: 50px;
 }
